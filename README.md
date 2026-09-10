@@ -1,2 +1,6 @@
+-
+*THIS DISTRO IS IN DEVELOPMENT*
+---
 # lavender
-take arch and gentoo, and put it with nix, you get this. [ IN DEVELOPMENT ]
+"you take arch and gentoo, and put it with nix, you get this.
+
