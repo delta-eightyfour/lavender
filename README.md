@@ -4,4 +4,4 @@
 ---
 you take arch and gentoo, and put it with nix, you get this.
 
-im still building the LFS system and zenon, you can help develop the distro and contribute to zenon by forking.
+im still building the LFS system and zenon, you can help develop the distro by forking once the binaries are out.
